@@ -30,3 +30,5 @@ Schijf: 476.29 GB (Gebruikt: 61.32 GB)
 CPU: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel (6 cores)
 Geheugen: 15.71 GB (Beschikbaar: 7.48 GB)
 Schijf: 476.29 GB (Gebruikt: 61.32 GB)
+
+84.195.96.136 - 2025-05-03 07:56:47
