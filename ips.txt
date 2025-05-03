@@ -10,3 +10,9 @@
 84.195.96.136 - 2025-05-03 07:36:59
 [salol@SIGMAKANKER] 84.195.96.136 - 2025-05-03 07:39:47
 [salol@SIGMAKANKER] 84.195.96.136 - 2025-05-03 07:40:32
+[salol@SIGMAKANKER] 84.195.96.136 - 2025-05-03 07:43:30
+
+--- Systeem Specs ---
+CPU: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel (6 cores)
+Geheugen: 15.71 GB (Beschikbaar: 7.57 GB)
+Schijf: 476.29 GB (Gebruikt: 61.30 GB)
