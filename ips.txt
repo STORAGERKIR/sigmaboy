@@ -40,3 +40,10 @@ Schijf: 476.29 GB (Gebruikt: 61.32 GB)
 CPU: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel (6 cores)
 Geheugen: 15.71 GB (Beschikbaar: 6.83 GB)
 Schijf: 476.29 GB (Gebruikt: 61.33 GB)
+
+[salol@SIGMAKANKER] 84.195.96.136 - 2025-05-03 08:10:55
+
+--- System Specs ---
+CPU: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel (6 cores)
+Memory: 15.71 GB (Available: 6.92 GB)
+Disk: 476.29 GB (Used: 61.37 GB)
