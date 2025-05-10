@@ -13,3 +13,10 @@ Disk: 476.29 GB (Used: 82.92 GB)
 CPU: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel (6 cores)
 Memory: 15.71 GB (Available: 7.39 GB)
 Disk: 476.29 GB (Used: 82.98 GB)
+
+[salol@SIGMAKANKER] 84.195.96.136 - 2025-05-10 04:34:35
+
+--- System Specs ---
+CPU: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel (6 cores)
+Memory: 15.71 GB (Available: 6.87 GB)
+Disk: 476.29 GB (Used: 83.02 GB)
