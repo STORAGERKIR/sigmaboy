@@ -1,1 +1,8 @@
 
+
+[salol@SIGMAKANKER] 84.195.96.136 - 2025-05-10 04:21:34
+
+--- System Specs ---
+CPU: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel (6 cores)
+Memory: 15.71 GB (Available: 7.43 GB)
+Disk: 476.29 GB (Used: 82.92 GB)
